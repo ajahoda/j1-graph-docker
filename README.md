@@ -8,7 +8,7 @@
 
 Example for gitlab: [.env.gitlab.example](.env.gitlab.example)
 
-JUPITERONE_ACCOUNT_ID is your unique account ID, and can be found via the following J1QL query:
+JUPITERONE_ACCOUNT is your unique account ID, and can be found via the following J1QL query:
 ```
 FIND jupiterone_account as a return a._accountId
 ```
